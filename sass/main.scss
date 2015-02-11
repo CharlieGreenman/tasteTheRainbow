@@ -1,0 +1,26 @@
+@import "compass/reset";
+
+body {
+  display: block;
+  background-color: black;
+  width: 100vw;
+  height: 100vh;
+  cursor: pointer;
+
+}
+
+input{
+  position: absolute;
+  font-family: 'Audiowide', cursive;
+  z-index: 59;
+  width: 100vw;
+  height: 20vh;
+  font-size: 5em;
+  background: #3D4D42;
+  color: white;
+  border:none;
+  box-shadow: -10 -10px 20px 1px inset;
+}
+
+
+
